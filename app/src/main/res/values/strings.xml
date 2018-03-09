@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BLE Visual</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="default_msg">No devices found!</string>
+    <string name="connected_msg">Connected!</string>
+    <string name="disconnected_msg">Disconnected!</string>
+    <string name="scanning_msg">Scanning for devices...</string>
+    <string name="connecting_msg">Connecting to device...</string>
+    <string name="bluetooth_off_msg">Bluetooth is turned off!</string>
+    <string name="yes_msg">Yes</string>
+    <string name="cancel_msg">Cancel</string>
+    <string name="device_connect_msg">Device found! Do you want to connect?</string>
+</resources>
